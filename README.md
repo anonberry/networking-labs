@@ -30,7 +30,7 @@ Additional tools and technologies will be documented as I progress.
 
 | Project | Description | Status |
 |---|---|---|
-| [01 — Packet Tracer Network Setup](./01-packet-tracer-network-setup/) | Basic network setup, IPv4 addressing, LAN configuration, and connectivity testing. | In progress |
+| [01 — Packet Tracer Network Setup](./01-packet-tracer-network-setup/) | Basic network setup, IPv4 addressing, LAN configuration, and connectivity testing. | Completed |
 
 More projects will be added as I complete and document additional labs.
 
